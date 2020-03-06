@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins:300,400,500,700&display=swap');
+// color:
+$white : #FFF;
+$blueBG: #070D59;
+$redDOT: #FF0000;
+$HeadingText: #2D1F3F;
+$buttonBG : #F7B633;
+//  font-size:
+$F22: 22px;
+$F20: 20px;
+$F18: 18px;
+$F48: 48px;
+
+// Media Queries:
+$mobile: "only screen and (max-width : 767px)";
+$tablet: "only screen and (max-width : 992px)";
+$desktop: "only screen and (max-width : 1599px)";
+$largeScreen: "only screen and (min-width : 1600px)";

@@ -1,0 +1,17 @@
+.question{
+    width: 90%;
+    margin:auto;
+  }
+.question ul{
+    width: 90%;
+     margin: auto;
+     list-style-type: none;
+}
+.question ul li{
+    width: 45% ;
+    float: left ;
+    padding: 10px;
+    border: 1px solid;
+    cursor: pointer;
+    margin: 20px 10px;
+}
